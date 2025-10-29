@@ -45,4 +45,4 @@ Beyond research, I am passionate about **intelligent transportation**, **urban m
 
 ---
 
-> *This personal academic website is powered by the [AcademicPages template](https://github.com/academicpages/academicpages.github.io), based on the Minimal Mistakes Jekyll theme.*
+
