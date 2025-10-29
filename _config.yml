@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "WeiCheng Jiang | Ph.D. Student at Southeast University"
+title                    : "Haitian Jiang "
 title_separator          : "-"
 name                     : &name "WeiCheng Jiang"
 description              : &description "Ph.D. student focusing on high-precision positioning, multi-source fusion, and intelligent transportation systems."
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : '<img src="/assets/images/pro.jpg" style="width:150px;height:150px;border-radius:50%;object-fit:cover;">'   # 确保在 /images/ 或 /assets/images/ 下有 profile.png
   name             : "WeiCheng Jiang"
-  pronouns         : "he/him"
+  pronouns         : #"he/him"
   bio              : "Ph.D. student at Southeast University."
   location         : "Nanjing, China"
   employer         : "Southeast University"
