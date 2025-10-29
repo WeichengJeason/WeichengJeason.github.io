@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haitian Jiang | Ph.D. Student at Southeast University"
+title: "Haitian Jiang | Ph.D. Student "
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,13 +33,13 @@ Beyond research, I am passionate about **intelligent transportation**, **urban m
 
 - *2025.10* — Started my Ph.D. at Southeast University.  
 - *2024.07* — Completed my master’s degree focusing on GNSS/IMU fusion and cycle slip detection.  
-- *2023.12* — Presented research at the International Conference on Human Factors and Intelligent Systems.  
+
 
 ---
 
 ## Contact
 
-📧 **Email:** haitian.jiang@seu.edu.cn  
+📧 **Email:** WeichengJeason@outlook.com
 🌐 **Website:** [Haitian-Jiang.github.io](https://haitian-jiang.github.io)  
 🏫 **Affiliation:** Southeast University, Nanjing, China  
 
