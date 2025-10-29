@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Welcome"
+author_profile: true
+---
 
 
 ## About Me
