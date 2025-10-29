@@ -22,7 +22,7 @@ repository               : "WeichengJeason/weichengjeason.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pro1.jpg"   # 确保在 /images/ 或 /assets/images/ 下有 profile.png
+  avatar           : "pro2.jpg"   # 确保在 /images/ 或 /assets/images/ 下有 profile.png
   name             : "HaiTian Jiang"
   pronouns         : #"he/him"
   bio              : "Ph.D. student at Southeast University."
