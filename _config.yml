@@ -25,7 +25,7 @@ author:
   avatar           : "pro.jpg"   # 确保在 /images/ 或 /assets/images/ 下有 profile.png
   name             : "WeiCheng Jiang"
   pronouns         : "he/him"
-  bio              : "Ph.D. student at Southeast University. My research focuses on high-precision positioning, GNSS/IMU integration, and multi-source fusion for autonomous and intelligent transportation systems."
+  bio              : "Ph.D. student at Southeast University."
   location         : "Nanjing, China"
   employer         : "Southeast University"
   uri              : "https://weichengjeason.github.io"
